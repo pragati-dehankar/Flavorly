@@ -3,7 +3,6 @@ import { useEffect } from "react";
 import { CDN_URL, RES_API } from '../utils/constants';
 import { FaArrowCircleLeft, FaArrowCircleRight, FaArrowRight } from "react-icons/fa";
 import { FaArrowLeft } from 'react-icons/fa6';
-import { transform } from '@babel/core';
 import ResList from './ResList';
 import { Link } from 'react-router-dom';
 
