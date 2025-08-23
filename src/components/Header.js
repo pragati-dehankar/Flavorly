@@ -4,7 +4,7 @@ import { useState } from "react";
 import { Link } from "react-router-dom";
 import useOnlineStatus from "../utils/useOnlineStatus";
 import { useSelector } from "react-redux";
-import logo from "./assests/food-Photoroom.png"
+import logo from "../assests/food-Photoroom.png"
 
 
 
