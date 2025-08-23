@@ -1,0 +1,27 @@
+Q.1) What is Emmet?
+ans:- Emmet provides shorthand syntax to specify class and id attributes in our HTML elements.Emmet uses different abbreviations and short expressions depending on what's passed, and then dynamically converts the abbreviations into the full code.
+
+Q.2) Difference between a Library and Framework?
+ans:- A framework is used for building and deploying an application quickly. When we use a framework, we can use resources to facilitate faster development and a greater user experience. A library is used to enhance the functionality of an application. If we develop our own library, we can use the functions in many applications.
+
+Q.3) What is CDN? Why do we use it?
+ans:- A content delivery network (CDN) is a network of interconnected servers that speeds up webpage loading for applications.When a user visits a website, data from that website's server has to travel across the internet to reach the user's computer. If the user is located far from that server, it will take a long time to load a large file, such as a video or website image. Instead, the website content is stored on CDN servers geographically closer to the users and reaches their computers much faster.We use CDN because it provides High-speed content delivery, Real-time streaming, Multi-user scaling etc and CDN improves normal website functions and increases customer satisfaction.
+
+Q.4) Why is React known as React?
+ans:- Reactis called React Beacause:-
+      1) It "reacts" quickly to changes without reloading the whole page.
+      2) It uses the virtual DOM to efficiently update parts of a webpage.
+      3) It’s built around components that "react" and update.
+
+Q.5) What is crossorigin in script tag?
+ans:- 
+
+Q.6) What is diference between React and ReactDOM?
+ans:-  React is like the architect who designs how things should look, and ReactDOM is the construction worker who puts those designs into action on a website.
+
+Q.7) What is difference between react.development.js and react.production.js files via CDN?
+ans:- Development is the stage of an application before it's made public while production is the term used for the same application when it's made public. Development build is several times (maybe 3-5x) slower than the production build.
+
+Q.8) What is async and defer?
+ans:- Async - The async attribute is a boolean attribute. The script is downloaded in parallel(in the background) to parsing the page, and executed as soon as it is available (do not block HTML DOM construction during downloading process) and don’t wait for anything.
+      Defer - The defer attribute is a boolean attribute. The script is downloaded in parallel(in the background) to parsing the page, and executed after the page has finished parsing(when browser finished DOM construction). The defer attribute tells the browser not to wait for the script. Instead, the browser will continue to process the HTML, build DOM.
